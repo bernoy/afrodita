@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: Open-Sans-Bold;
-    src: url(/fonts/OpenSans-Bold.ttf)
+    src: url(../fonts/OpenSans-Bold.ttf)
 }
 
 @font-face {
@@ -142,6 +142,7 @@ body {
 
 .navigation-text {
     color: #fff;
+    text-decoration: none;
 }
 
 .navigatiuon-list__item {
